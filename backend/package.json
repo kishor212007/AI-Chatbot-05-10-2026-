@@ -1,4 +1,4 @@
-git init{
+{
   "name": "ai-chatbot-backend",
   "version": "1.0.0",
   "description": "AI LLM Chatbot Backend Server with Express and Real LLM Integration",
